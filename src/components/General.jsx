@@ -42,6 +42,31 @@ export const General = () => {
   <p>I have actively explored and familiarized myself with multiple tech stacks, enabling me to develop a versatile skill set and adapt quickly to new technologies. I am highly self-motivated and continuously stay updated with industry trends through online courses and coding challenges.</p>
   <p>I believe that a strong foundation in software development, coupled with a willingness to learn, is crucial in this ever-evolving industry. I am excited about the opportunity to contribute my skills and knowledge to Miniwork, and I am confident in making valuable contributions to the team.</p>
   <p>Thank you for considering my application</p>
+
+  <p>
+  嗨，我係Kevin，係英國出生嘅。我修咗一個全面嘅IT軟件開發課程，對軟件開發有好好嘅基礎。我對科技好有興趣，而且有好多IT嘅背景，了解行業嘅好多方面。
+我學習期間，主動探索同熟悉咗好多唔同嘅技術堆疊，包括（提及你有經驗嘅具體技術堆疊）。咁樣令我有好多技能同埋可以快速學習新嘅科技同程式語言。
+我自己係一個好有動力嘅人，經常學習同追求行業嘅最新趨勢。我會參加網上課程、睇科技文章同埋參加編程挑戰，係希望自己可以不斷進步同保持對呢個快速發展嘅領域有追求。
+我相信好好嘅軟件開發基礎同埋對學習有心態係好重要嘅，特別係喺呢個不斷變化嘅行業度。我好期待有機會可以喺miniwork度發揮我嘅技能同知識，同團隊一齊為成功出一分力。
+多謝你考慮我嘅申請，我好期待同你討論我嘅經驗同miniwork嘅目標同願景點樣吻合。
+<br/>(I want to say something like this)
+  </p>
+
+
+  <h2>Do you have any questions?</h2>
+
+  <h2>Whats the one thing I can do in this role to help your business succeed?</h2>
+  <p>喺呢個職位度，我可以做咩嘢嚟幫助你哋嘅業務取得成功呢？</p>
+
+<h2>Can you tell me more about the team I will be part of in this role? and how many people?</h2>
+<p>可以同我講多啲有關呢個職位入面我會加入嘅團隊嗎？而且團隊有幾多人？</p>
+
+<h2>What advice would you give to the successful candidate who wants to excel in the role?</h2>
+<p>如果有成功嘅應徵者想喺呢個角色度表現出色，你會有咩建議？</p>
+
+
+
+
         </div>
     )
 }
