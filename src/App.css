@@ -4,6 +4,35 @@
   padding: 2rem;
   text-align: center;
 }
+p {
+  text-align: left;
+}
+h2 {
+  text-align: left;
+}
+h3 {
+  text-align: left;
+}
+li {
+  text-align: left;
+}
+.answer {
+color: rgb(114, 114, 114);
+
+}
+.question {
+  font-weight: bold;
+}
+
+.thanks {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.img {
+  margin-bottom: 500px;
+}
 
 .logo {
   height: 6em;
